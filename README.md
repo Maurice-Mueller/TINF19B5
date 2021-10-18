@@ -15,6 +15,7 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
 
 ## Ausstehend
 
-* Folien zum Programmentwurf
-* Dokumentvorlage zum Programmentwurf
 * Ersatztermin für ausgefallene Vorlesung
+  * der Kurs meldet sich mit Terminvorschlägen
+* ~~Folien zum Programmentwurf~~
+* ~~Dokumentvorlage zum Programmentwurf~~
