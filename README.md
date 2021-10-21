@@ -12,6 +12,10 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
   * Konkretes Vorgehen
     * bis 'Lösungsstrategien für organisatorische Probleme'
 
+### 19.10.2021
+* Software Architektur (gesamt)
+* aktualisierte Folien zum Programmentwurf
+
 
 ## Ausstehend
 
