@@ -23,3 +23,9 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
   * der Kurs meldet sich mit Terminvorschlägen
 * ~~Folien zum Programmentwurf~~
 * ~~Dokumentvorlage zum Programmentwurf~~
+
+### 26.10.2021
+* Unit Testing
+  * Testen im Allgemeinen
+  * xUnit Test Framework
+  * A-TRIP-Eigenschaften
