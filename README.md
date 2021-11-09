@@ -29,3 +29,15 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
   * Testen im Allgemeinen
   * xUnit Test Framework
   * A-TRIP-Eigenschaften
+
+### 02.11.2021
+* Unit Testing
+  * Mocking
+  * Code Coverage
+  * Test First und TDD
+
+### 09.11.2021
+* Clean Architecture
+  * Aufbau
+  * Schichten
+  * Umsetzung
