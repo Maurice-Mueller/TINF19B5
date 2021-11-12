@@ -1,6 +1,13 @@
 # TINF19B5
 Unterlagen zur Vorlesung ASE (TINF19B5)
 
+
+## Aktuelles
+
+* Donnerstags **nach** Voranmeldung Sprechstunde von 9.30 - 10 Uhr
+* Ersatztermin für ausgefallene Vorlesung: 7.12.
+
+
 ## Vorlesung
 
 ### 12.10.2021
@@ -16,13 +23,6 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
 * Software Architektur (gesamt)
 * aktualisierte Folien zum Programmentwurf
 
-
-## Ausstehend
-
-* Ersatztermin für ausgefallene Vorlesung
-  * der Kurs meldet sich mit Terminvorschlägen
-* ~~Folien zum Programmentwurf~~
-* ~~Dokumentvorlage zum Programmentwurf~~
 
 ### 26.10.2021
 * Unit Testing
