@@ -41,3 +41,12 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
   * Aufbau
   * Schichten
   * Umsetzung
+
+### 07.12.2021
+* SOLID
+* GRASP
+
+
+### 15.02.2022
+* API Design
+  * bis einschließlich Programmiersprachen-APIs Benennung
