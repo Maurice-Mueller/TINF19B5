@@ -50,3 +50,7 @@ Unterlagen zur Vorlesung ASE (TINF19B5)
 ### 15.02.2022
 * API Design
   * bis einschließlich Programmiersprachen-APIs Benennung
+
+### 22.02.2022
+* API Design
+  * bis Programmiersprachen APIs Ende
